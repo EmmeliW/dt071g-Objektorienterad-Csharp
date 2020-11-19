@@ -1,0 +1,15 @@
+C:\Users\emmel\source\repos\Guestbook\Guestbook\bin\Debug\netcoreapp3.1\Guestbook.exe
+C:\Users\emmel\source\repos\Guestbook\Guestbook\bin\Debug\netcoreapp3.1\Guestbook.deps.json
+C:\Users\emmel\source\repos\Guestbook\Guestbook\bin\Debug\netcoreapp3.1\Guestbook.runtimeconfig.json
+C:\Users\emmel\source\repos\Guestbook\Guestbook\bin\Debug\netcoreapp3.1\Guestbook.runtimeconfig.dev.json
+C:\Users\emmel\source\repos\Guestbook\Guestbook\bin\Debug\netcoreapp3.1\Guestbook.dll
+C:\Users\emmel\source\repos\Guestbook\Guestbook\bin\Debug\netcoreapp3.1\Guestbook.pdb
+C:\Users\emmel\source\repos\Guestbook\Guestbook\obj\Debug\netcoreapp3.1\Guestbook.csprojAssemblyReference.cache
+C:\Users\emmel\source\repos\Guestbook\Guestbook\obj\Debug\netcoreapp3.1\Guestbook.AssemblyInfoInputs.cache
+C:\Users\emmel\source\repos\Guestbook\Guestbook\obj\Debug\netcoreapp3.1\Guestbook.AssemblyInfo.cs
+C:\Users\emmel\source\repos\Guestbook\Guestbook\obj\Debug\netcoreapp3.1\Guestbook.csproj.CoreCompileInputs.cache
+C:\Users\emmel\source\repos\Guestbook\Guestbook\obj\Debug\netcoreapp3.1\Guestbook.dll
+C:\Users\emmel\source\repos\Guestbook\Guestbook\obj\Debug\netcoreapp3.1\Guestbook.pdb
+C:\Users\emmel\source\repos\Guestbook\Guestbook\obj\Debug\netcoreapp3.1\Guestbook.genruntimeconfig.cache
+C:\Users\emmel\source\repos\Guestbook\Guestbook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\emmel\source\repos\Guestbook\Guestbook\obj\Debug\netcoreapp3.1\Guestbook.csproj.CopyComplete

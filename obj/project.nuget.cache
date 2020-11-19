@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TB8jtWLs3ja0TzI3iF5fL5KxNiIEiX/LdaI0dZoACTSrqAenfErhvD+x6XBX3nvY/9yHuBRp45tVdPEiMzBa7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emmel\\source\\repos\\Guestbook\\Guestbook\\Guestbook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
