@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 using Guestbook.Classes;
-
+ 
 namespace Guestbook
 {
     class Program
@@ -24,14 +24,13 @@ namespace Guestbook
             // Do while to loop the menu and choises
             do
             {
-                // Vrite out menu and take input
+                // Write out menu
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("En liten gästbok \n \n" +
                     "Om du vill lägga till ett inlägg, skriv 1\n" +
                     "Om du vill radera ett inlägg, skriv 2 \n" +
                     "Om du vill avsluta. skriv 3" +
                     "\n");
-                string num = Console.ReadLine();
 
                 // Post all the posts in the guestbook
                 serialize.DeSerialize(out string getJson, out List<GuestbookPosts> list);
@@ -41,6 +40,8 @@ namespace Guestbook
                     Console.WriteLine($"{i} - {post.name}, {post.post} \n");
                     i++;
                 }
+                // Take input
+                string num = Console.ReadLine();
 
                 // If statment to check input value
                 if (num == "1")
