@@ -1,22 +1,14 @@
 [
   {
-    "name": "emmeli",
-    "post": "hej här är mitt inlägg"
-  },
-  {
     "name": "Emmeli",
-    "post": "Hej här kommer ett litet inlägg i min gästbok."
+    "post": "Hej här är ett inlägg i min gästbok"
   },
   {
     "name": "Emmlan",
-    "post": "Ettt till inlägg"
+    "post": "Hej här kommer ett till litet inlägg i min gästbok."
   },
   {
-    "name": "Em",
-    "post": "Ett inlägg från em"
-  },
-  {
-    "name": "hej hejhb",
-    "post": "jdnbfgjb"
+    "name": "Semmlan",
+    "post": "Tre inlägg räcker va?"
   }
 ]
