@@ -82,7 +82,7 @@ namespace Guestbook
                     // Write massage and close app
                     Console.Clear();
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.WriteLine("Tack för idag");
+                    Console.WriteLine("Nu tog det slut, hej då!");
                     Thread.Sleep(10000);
                     Environment.Exit(0);
                 }
