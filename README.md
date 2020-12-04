@@ -1,6 +1,6 @@
 # Webbutveckling
 ### Programmering i C# .NET
-##### Moment 3 - Pbjektorienterad C#
+##### Moment 3 - Objektorienterad C#
 ----------
 
 Denna uppgift gick ut på att skapa en konsollaplikation i form av en gästbok.
